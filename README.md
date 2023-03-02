@@ -1,10 +1,1 @@
-Notificacion discord
-e
-ee
-e
-ww
-e
-eee
-e
-ee
-e
+He editado el README
