@@ -23,7 +23,7 @@ services:
       expose:
          - "86"
       ports:
-         - 8405:8405
+         - 8404:8404
       depends_on:
          - apache1
          - apache2
